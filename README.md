@@ -1,0 +1,2 @@
+# Hello-Kureneko
+Learning Git
